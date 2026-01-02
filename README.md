@@ -5,17 +5,16 @@ I’m a **recent software engineering graduate** passionate about building thoug
 ---
 
 ### 💻 What I’m up to
-- 🔭 Currently working on a **online version of my favorite word game** 
+- 🔭 Currently working on building the **online version** of my favorite word game!
 - 🌱 Learning **Golang** for fun and to expand my backend skill set
-- 🧠 Interested in systems that blend **technology with real-world impact**
+- 🧠 Studying **Chinese** and **Korean**
 
 ---
 
 ### 🐾 Fun facts about me
 - 🐱 I **love cats**
 - 🏸 I play **badminton**
-- 🌍 I love **traveling**
-- ⛰️ I did an **overnight hike at Acatenango Volcano in Guatemala** (with views of an active volcano!)
+- 🌍 I love **traveling** and the **outdoors**
 
 ---
 
