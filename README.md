@@ -11,13 +11,6 @@ I’m a **recent software engineering graduate** passionate about building thoug
 
 ---
 
-### 🌟 Interests & Focus Areas
-- 💳 Financial technology & data-driven systems  
-- 📊 Data engineering, analytics, and scalable pipelines  
-- 🏥 Healthcare tech and tools that improve access and outcomes  
-
----
-
 ### 🐾 Fun facts about me
 - 🐱 I **love cats**
 - 🏸 I play **badminton**
@@ -33,6 +26,13 @@ I’m a **recent software engineering graduate** passionate about building thoug
 Thanks for stopping by — feel free to explore my projects or reach out!
 
 <!--
+
+### 🌟 Interests & Focus Areas
+- 💳 Financial technology & data-driven systems  
+- 📊 Data engineering, analytics, and scalable pipelines  
+- 🏥 Healthcare tech and tools that improve access and outcomes  
+
+---
 **sophiayau/sophiayau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
