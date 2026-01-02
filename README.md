@@ -1,6 +1,6 @@
 ## Hi! I'm Sophia 👋
 
-I’m a **recent software engineering graduate** passionate about building thoughtful, scalable systems—especially in the **finance, data, and healthcare** spaces.
+I’m a **recent software engineering graduate** passionate about building scalable systems—especially in **finance, data, and healthcare** spaces.
 
 ---
 
