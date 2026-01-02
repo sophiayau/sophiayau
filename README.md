@@ -5,8 +5,8 @@ I’m a **recent software engineering graduate** passionate about building thoug
 ---
 
 ### 💻 What I’m up to
-- 🔭 Currently working on a **word game application** (think fun, interactive, and logic-heavy)
-- 🌱 Learning **Go (Golang)** for fun and to expand my backend skill set
+- 🔭 Currently working on a **online version of my favorite word game** 
+- 🌱 Learning **Golang** for fun and to expand my backend skill set
 - 🧠 Interested in systems that blend **technology with real-world impact**
 
 ---
