@@ -16,12 +16,6 @@ I’m a **recent software engineering graduate** passionate about building scala
 - 🏸 I play **badminton**
 - 🌍 I love **traveling** and the **outdoors**
 
----
-
-### 📫 Let’s connect
-- 💼 LinkedIn: *https://www.linkedin.com/in/sophiayau*
-- 🌐 Portfolio: *https://www.sophiayau.com*
-
 Thanks for stopping by — feel free to explore my projects or reach out!
 
 <!--
